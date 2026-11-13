@@ -1,9 +1,9 @@
 Brief-Streamlit
-Application Streamlit — Espace utilisateur
+Application Streamlit & Espace utilisateur
 
 Ce projet a été réalisé dans le cadre de ma formation Data Analyst afin de mettre en pratique l'utilisation de Streamlit. Il n'a pas pour but de devenir une vraie application fonctionnelle. Les données (comme accounts.csv) sont toutes fictives.
 
-Fonctionnement
+Fonctionnement :
 L'accès à l'application nécessite une authentification. Vous retrouverez les comptes dans accounts.csv (par exemple utilisateur / mdp123 ou admin / admin123). Vous pouvez, si vous le souhaitez, ajouter d'autres comptes.
 La session est maintenue grâce à st.session_state.
 Le menu latéral permet de naviguer entre l'accueil et la galerie photos (mes photos affichées sur 3 colonnes).
